@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sahand Motallebi  
-💻 Python Django & WordPress Developer  
+💻 Python (Django) & WordPress Developer  
 
 Sahand Motallebi is a web developer passionate about building scalable and efficient applications using **Python (Django)** and **WordPress**.  
 With strong expertise in **backend development** and a solid understanding of **frontend technologies**, he combines creativity with technical skills to deliver high-quality solutions.  
@@ -25,8 +25,8 @@ Currently, Sahand is enhancing his skills in **modern backend frameworks** and e
 ---
 
 ### 📫 How to reach me  
-- 📧 Email: `your-email@example.com`  
-- 🌐 Website: [your-website.com](https://your-website.com)  
+- 📧 Email: `sahandmotallebii@gmail.com`  
+- 🌐 Website: [your-website.com](https://sahandmotallebi.ir)  
 
 ---
 
